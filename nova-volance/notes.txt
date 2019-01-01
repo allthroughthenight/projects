@@ -1,0 +1,88 @@
+image/visual extendable?
+---
+http://callofduty.wikia.com/wiki/Zork
+http://www.pinheadgames.com/nick-bounty.html
+https://www.fantasynamegenerators.com
+https://github.com/lordmauve/adventurelib
+http://www.gamasutra.com/blogs/JoshGe/20181029/329512/How_to_Make_a_Roguelike.php
+https://www.pygame.org
+---
+Main man: Seth 'Shadow Parag0n' Grant
+	Live long and die free.
+		hack hard and crash free?
+	a 23 years old male human
+	He is bald
+	He skin is ghostly white
+	He stands 167cm (5'4") tall and has a scrawny build
+	He has an edgy, forgettable face.
+	He fidget intermitenly
+
+Woman: Julia Salazar
+	35 years old female human
+	She has cropped, auburn mohawk and cyan eyes.
+	She has soft, pockmarked, golden skin.
+	She stands 152cm (4'11") tall and has an athletic build.
+	She has an oval, extremely common face.
+	She has a scar on her neck.
+
+Man-in-the-chair: Eduardo 'Sergeant Sploit' Manning
+	idioms
+		https://www.fantasynamegenerators.com/idiom-generator.php
+	59 years old male
+	He has cropped, wavy, brown hair shaved on the left side and black eyes.
+	He has silky pink skin.
+	He stands 164cm (5'4") tall and has a lean build.
+	He has a soft, very beautiful face.
+	He is easily out of breath.
+
+Villian: Irving Yates
+	a 48 years old male human
+	He has cropped, wavy, gray hair and blue eyes.
+	He has rough brown skin.
+	He stands 172cm (5'7") tall and has a round build.
+	He has an oval, forgettable face.
+	He occasionally squints.
+
+Villian Oginization: Millennium Technology
+	Perseverance conquers all.
+	Protect, serve, progress.
+City Name: Nova Volance
+	The megalopolis itself looks surreal
+	The main attraction is was the chance to make a name for yourself
+	the juxtaposition of the political aristoracs, business magnates, and *something* While still sharing the same streets with Crime lord, cyber sqads, and everyday thugs
+	The skyline is spreading with monolithic skyscrapers and they each represent the many different aspects of the city.
+	Business is booming in Ebonwick and it has attracted both good and bad attention.
+	A many have try to leave their mark on the city, but many are swept away with the crowd.
+	What historically was a city of vagabonds has grown into a large techno melting pot and it's this that unites the 5 million inhabitants.
+
+story
+	A young man in his early twenties, who can be quite uninhibited.
+		hacker
+		hardware and software
+		need something cool to call it like ics or something
+	A woman in her late twenties, who is very helpful.
+		lost in bad part of town
+		ask for help
+		thinks about scamming
+		but too wholesome and tells how to leave
+		looking for someone tho?
+	The story begins in a car park.
+		smoking
+	Someone is tormented by the memory of a dead family member.
+		lost family to hyper aggressive cyber force
+		authrity issues
+		was minor crime and everyone does it
+		dad was cool and someone in power sending a message
+	It's a story about sacrifice.
+		need to give up life of crime to get better work and go legit
+		has authority issues
+		knows that life style isn't sustainable
+		need reason to give up life of crime
+	Your character takes on the role of protector
+		not sure if it's cause she's naieve or pretty
+		been hurt in the past
+		decides to help
+gamepaly
+	basic text adventue
+	instad of fantasy, hacking
+		terminals and interactive hacking tho?
