@@ -2,6 +2,7 @@
 	comment day12.py
 	how to automate testing
 challenges sites
+	https://codingbat.com/python
 	https://edabit.com/challenges
 	https://github.com/gamontal/awesome-katas
 	https://leetcode.com
