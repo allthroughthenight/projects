@@ -1,0 +1,55 @@
+regular events
+	https://mlh.io/
+	---
+	advent of code
+	hacktober fest
+	no server november
+---
+aim trainer
+	https://www.google.com/search?hl=en&q=heroku%20aim%20trainer%20github
+	https://aimtrainer.herokuapp.com/
+methid to continually test network perfomance
+	see if upgrade to 100mbs worth it
+	have evidence as to why always slow
+mouse
+	clicker
+	jiggler
+reddit automatic wallpapers
+	grab images via api and save locally, have os rotate automatically
+	---
+	earthporn
+	minimalwallpaper
+	topwalls
+	ultrahdwallpapers
+	wallpaper
+	wallpapers
+	wallpapershq
+uhunix simple site
+	http://motherfuckingwebsite.com
+	http://bettermotherfuckingwebsite.com
+	https://thebestmotherfucking.website
+	https://www.staticgen.com/
+	---
+	blog
+	html5, css3, bootstrap, javascript, sql? api(s)?
+	phone app?
+		https://news.ycombinator.com/item?id=16849143
+	stacks: mean, lamp
+side scrolling unit making game
+	1066
+	seige titan wars
+	shadez
+	warfare 1917/1944
+habit tracker
+	like habatica
+		has export feature to have practice data set
+	self hosted
+	able to graph and look back
+	no rpg gimmic
+youtube playlist from subscription feed
+separate and crop family photos, facial recognition and tags
+	https://github.com/photoprism/photoprism
+	https://github.com/facebookresearch/Detectron
+	https://github.com/facebookresearch/DensePose
+	https://github.com/minimaxir/person-blocker
+	https://github.com/ageitgey/face_recognition
