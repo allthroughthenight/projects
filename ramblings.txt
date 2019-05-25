@@ -11,6 +11,11 @@ aim trainer
 methid to continually test network perfomance
 	see if upgrade to 100mbs worth it
 	have evidence as to why always slow
+book notes
+	https://github.com/mgp/book-notes
+	---
+	allows public place to reference from
+	reinforcement through repitiion
 mouse
 	clicker
 	jiggler
