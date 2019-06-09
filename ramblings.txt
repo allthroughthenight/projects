@@ -61,4 +61,51 @@ quant-life
 	everythin measured
 	need to start charting and making sense
 	habatica has an export feature also
-youtube playlist from subscription feed
+youtube auto-playlist maker
+	https://github.com/Elijas/auto-youtube-subscription-playlist-2
+	---
+	tech
+		bitwit
+		hak5
+		jayztwocents
+		linus tech tips
+			tech linked
+			tech quikie
+		pauls awesome hardware
+		unbox therapy
+	podcasts
+		adv podcast
+		agdq
+		awesome hardware
+		h3h3
+		joe rogan
+		new later
+		pc perspective
+		tiger milk
+		tiny meat gang
+		wan show
+	cars
+		chrisfix
+		donut media
+		eric the car guy
+		mighty car mods
+		motortrend channel
+		scotty kilmer
+	vocation
+		chubby emu
+		doctor mike
+		legal eagle
+		violin md
+	asia
+		advchina
+		asian boss
+		ask japanese
+		laowhy86
+		serpentza
+	pop knowledge
+		d!ing
+		smarter everyday
+		ted talks
+		veritasium
+		vsauce 1/2/3
+		wendover procutions
