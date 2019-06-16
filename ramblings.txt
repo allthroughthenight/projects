@@ -1,41 +1,10 @@
-regular events
-	https://mlh.io/
+quant-life
+	everythin measured
+	need to start charting and making sense
+	habatica has an export feature also
+separate and crop family photos
+	facial recognition and tags
 	---
-	advent of code
-	hacktober fest
-	no server november
----
-aim trainer
-	https://www.google.com/search?hl=en&q=heroku%20aim%20trainer%20github
-	https://aimtrainer.herokuapp.com/
-book notes
-	https://github.com/mgp/book-notes
-	---
-	allows public place to reference from
-	reinforcement through repitiion
-habit tracker
-	like habatica
-		has export feature to have practice data set
-	self hosted
-	able to graph and look back
-	no rpg gimmic
-methid to continually test network perfomance
-	see if upgrade to 100mbs worth it
-	have evidence as to why always slow
-mouse
-	clicker
-	jiggler
-reddit automatic wallpapers
-	grab images via api and save locally, have os rotate automatically
-	---
-	earthporn
-	minimalwallpaper
-	topwalls
-	ultrahdwallpapers
-	wallpaper
-	wallpapers
-	wallpapershq
-separate and crop family photos, facial recognition and tags
 	https://github.com/photoprism/photoprism
 	https://github.com/facebookresearch/Detectron
 	https://github.com/facebookresearch/DensePose
@@ -46,33 +15,32 @@ side scrolling unit making game
 	seige titan wars
 	shadez
 	warfare 1917/1944
-uhunix simple site
+uhunix simple self site
 	http://motherfuckingwebsite.com
 	http://bettermotherfuckingwebsite.com
 	https://thebestmotherfucking.website
 	https://www.staticgen.com/
 	---
-	blog
-	html5, css3, bootstrap, javascript, sql? api(s)?
-	phone app?
-		https://news.ycombinator.com/item?id=16849143
-	stacks: mean, lamp
-quant-life
-	everythin measured
-	need to start charting and making sense
-	habatica has an export feature also
+	boilerplates/frameworks
+		html5, css3, bootstrap, javascript
+	skill ratings
+		https://www.nateliason.com/blog/become-expert-dreyfus
 youtube auto-playlist maker
 	https://github.com/Elijas/auto-youtube-subscription-playlist-2
 	---
-	tech
-		bitwit
-		hak5
-		jayztwocents
-		linus tech tips
-			tech linked
-			tech quikie
-		pauls awesome hardware
-		unbox therapy
+	asia
+		advchina
+		asian boss
+		ask japanese
+		laowhy86
+		serpentza
+	cars
+		chrisfix
+		donut media
+		eric the car guy
+		mighty car mods
+		motortrend channel
+		scotty kilmer
 	podcasts
 		adv podcast
 		agdq
@@ -84,24 +52,6 @@ youtube auto-playlist maker
 		tiger milk
 		tiny meat gang
 		wan show
-	cars
-		chrisfix
-		donut media
-		eric the car guy
-		mighty car mods
-		motortrend channel
-		scotty kilmer
-	vocation
-		chubby emu
-		doctor mike
-		legal eagle
-		violin md
-	asia
-		advchina
-		asian boss
-		ask japanese
-		laowhy86
-		serpentza
 	pop knowledge
 		d!ing
 		smarter everyday
@@ -109,3 +59,17 @@ youtube auto-playlist maker
 		veritasium
 		vsauce 1/2/3
 		wendover procutions
+	tech
+		bitwit
+		hak5
+		jayztwocents
+		linus tech tips
+			tech linked
+			tech quikie
+		pauls awesome hardware
+		unbox therapy
+	vocation
+		chubby emu
+		doctor mike
+		legal eagle
+		violin md
