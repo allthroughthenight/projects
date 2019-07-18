@@ -5,8 +5,8 @@ def string_splosion(str):
   myCopy = []
   myString = ''
 
-  for x in range(0,len(myList)):
-    myCopy += myList[0:x+1]
+  for x in range(0,len(myList) + 1):
+    myCopy += str[0:x]
 
   myString = myString.join(myCopy)
 
