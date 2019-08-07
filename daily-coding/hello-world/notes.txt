@@ -1,4 +1,8 @@
 https://magenta.as/a-month-of-hello-world-496a92b6cec3
+https://github.com/hagata/30daysofHelloWorld
+---
+setting up ubuntu server
+	anisble or bash?
 scripet up depndancies per lang
 should go through all langs as have a meta program?
 some porgrams have prompts i.e. gui elements
