@@ -2,6 +2,13 @@ quant-life
 	everythin measured
 	need to start charting and making sense
 	habatica has an export feature also
+	exercise
+		organize by group
+			push
+			pull
+			upper
+			lower
+		able to see each exercise individually per date
 separate and crop family photos
 	facial recognition and tags
 	---

@@ -1,0 +1,15 @@
+discount codes from various content creators
+	vpn
+		https://www.expressvpn.com/h3
+		https://NordVPN.com/bionicpig
+		https://NordVPN.org/memeulous
+		https://nordvpn.com/pyrocynical
+		https://NordVPN.com/InternetHistorian
+		https://www.privateinternetaccess.com/pages/linus-tech-tips/linus1
+	iaas
+		do.co/changelog
+		do.co/cloudcast
+		do.co/devtea
+		linode.com/changelog
+
+
