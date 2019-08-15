@@ -1,5 +1,9 @@
 links for later
-
+	time
+		how much free time do you have
+			https://erikrood.com/Posts/free_time_calc.html
+		your life in weeks
+			https://waitbutwhy.com/2014/05/life-weeks.html
 	motivation
 		one of the smart kids
 			https://www.reddit.com/r/getdisciplined/comments/3piu8r/advice_were_you_one_of_the_smart_kids/
@@ -37,10 +41,13 @@ links for later
 			https://www.youtube.com/watch?v=1i8ylq4j_EY
 		habits of efficient developers
 			https://www.youtube.com/watch?v=9-cyC6O81Bk
+		badass conference talks
+			https://github.com/emmawedekind/badass-conference-talks
 discount codes from various content creators
 	vpn
 		https://www.expressvpn.com/h3
 		https://www.expressvpn.com/tmg
+		https://nordvpn.org/terrace
 		https://NordVPN.com/bionicpig
 		https://NordVPN.org/memeulous
 		https://nordvpn.com/pyrocynical
