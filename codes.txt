@@ -47,12 +47,13 @@ discount codes from various content creators
 	vpn
 		https://www.expressvpn.com/h3
 		https://www.expressvpn.com/tmg
-		https://nordvpn.org/terrace
-		https://NordVPN.com/bionicpig
-		https://NordVPN.org/memeulous
+		https://nordvpn.com/terrace
+		https://nordvpn.com/ADVChina
+		https://nordvpn.com/bionicpig
+		https://nordvpn.com/memeulous
 		https://nordvpn.com/pyrocynical
-		https://NordVPN.com/InternetHistorian
-		https://www.privateinternetaccess.com/pages/linus-tech-tips/linus1
+		https://nordvpn.com/InternetHistorian
+		https://privateinternetaccess.com/pages/linus-tech-tips/linus1
 	iaas
 		do.co/changelog
 		do.co/cloudcast
