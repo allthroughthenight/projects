@@ -25,6 +25,8 @@ links for later
 	concepts
 		a duck, ducking
 			https://rachelbythebay.com/w/2013/06/05/duck/
+		are your programmers working hard, or are they lazy?
+			http://mikehadlow.blogspot.com/2013/12/are-your-programmers-working-hard-or.html
 		law of trvality and the bikeshed effect
 			https://blog.codinghorror.com/procrastination-and-the-bikeshed-effect/
 		mental models
