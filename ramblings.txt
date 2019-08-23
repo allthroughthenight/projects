@@ -1,3 +1,12 @@
+*todo
+	clean up 'projects' repo
+		delete 'daily-coding/', 'misc/', but 'decoy/'?
+		add 'codes.txt' to blog as separate pages for 'discount codes' and 'links' like http:// tylernakamura .com /links/
+		have 'rambling.txt' as 'README.md'
+	github
+		new 'decoy' run
+		unfollow everyone?
+		combine new-box and dotfiles (again lel)
 quant-life
 	everythin measured
 	need to start charting and making sense
