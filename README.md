@@ -1,24 +1,17 @@
-# projects
-*todo
-	clean up 'projects' repo
-		delete 'daily-coding/', 'misc/', but 'decoy/'?
-		add 'codes.txt' to blog as separate pages for 'discount codes' and 'links' like http:// tylernakamura .com /links/
-		have 'rambling.txt' as 'README.md'
-	github
-		new 'decoy' run
-		unfollow everyone?
-		combine new-box and dotfiles (again lel)
-quant-life
-	everythin measured
-	need to start charting and making sense
-	habatica has an export feature also
-	exercise
-		organize by group
-			push
-			pull
-			upper
-			lower
-		able to see each exercise individually per date
+# Projects
+###### Various ramblings that don't need (or have) their own repo (yet)
+* github
+** new 'decoy' run
+** clean up 'new-box' and test
+* quant-life
+** need to start charting and making sense
+** exercises
+** organize by group
+push
+pull
+upper
+lower
+able to see each exercise individually per date
 separate and crop family photos
 	facial recognition and tags
 	---
