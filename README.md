@@ -1,19 +1,13 @@
 # Projects
-###### Various ramblings that don't need (or have) their own repo (yet)
-* github
+#### Various ramblings that don't need (or have) their own repo (yet)
+
+### github TODO
 	- new 'decoy' run
 	- clean up 'new-box' and test
 
-* quant-life
-	- need to start charting and making sense
-	- exercises
-	- organize by group
-	- push
-	- pull
-	- upper
-	- lower
-
-able to see each exercise individually per date
+### quant-life
+* [plotly](https://plot.ly/)
+* [matplotlib](https://matplotlib.org/)
 
 ### Separate and crop family pictures archive
 * [Photoprism](https://github.com/photoprism/photoprism)
