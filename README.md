@@ -1,17 +1,17 @@
 # Projects
 ###### Various ramblings that don't need (or have) their own repo (yet)
 * github
-** new 'decoy' run
-** clean up 'new-box' and test
+.* new 'decoy' run
+.* clean up 'new-box' and test
 
 * quant-life
-** need to start charting and making sense
-** exercises
-** organize by group
-*** push
-*** pull
-*** upper
-*** lower
+.* need to start charting and making sense
+.* exercises
+.* organize by group
+..* push
+..* pull
+..* upper
+..* lower
 
 able to see each exercise individually per date
 separate and crop family photos
@@ -24,15 +24,15 @@ separate and crop family photos
 * https://github.com/ageitgey/face_recognition
 
 * uhunix simple self site
-** Inspiration
-*** http://motherfuckingwebsite.com
-*** http://bettermotherfuckingwebsite.com
-*** https://thebestmotherfucking.website
-*** https://www.staticgen.com/
-** ---
-** boilerplates
-*** bootstrap
-*** javascript
+.* Inspiration
+..* http://motherfuckingwebsite.com
+..* http://bettermotherfuckingwebsite.com
+..* https://thebestmotherfucking.website
+..* https://www.staticgen.com/
+.* ---
+.* boilerplates
+..* bootstrap
+..* javascript
 
 [skill ratings](https://www.nateliason.com/blog/become-expert-dreyfus)
 
