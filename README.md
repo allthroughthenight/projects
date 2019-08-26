@@ -1,9 +1,9 @@
 # Projects
-#### Various ramblings that don't need (or have) their own repo (yet)
+#### Various ramblings that don't have their own repo (yet)
 
 ### github TODO
-	- new 'decoy' run
-	- clean up 'new-box' and test
+* new 'decoy' run
+* clean up 'new-box' and test with VirtualBox
 
 ### quant-life
 * [plotly](https://plot.ly/)
