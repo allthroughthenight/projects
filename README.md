@@ -39,54 +39,9 @@ uhunix simple self site
 	https://www.staticgen.com/
 	---
 	boilerplates/frameworks
-		html5, css3, bootstrap, javascript
-	skill ratings
-		https://www.nateliason.com/blog/become-expert-dreyfus
-youtube auto-playlist maker
-	https://github.com/Elijas/auto-youtube-subscription-playlist-2
-	---
-	asia
-		advchina
-		asian boss
-		ask japanese
-		laowhy86
-		serpentza
-	cars
-		chrisfix
-		donut media
-		eric the car guy
-		mighty car mods
-		motortrend channel
-		scotty kilmer
-	podcasts
-		adv podcast
-		agdq
-		awesome hardware
-		h3h3
-		joe rogan
-		new later
-		pc perspective
-		tiger milk
-		tiny meat gang
-		wan show
-	pop knowledge
-		d!ing
-		smarter everyday
-		ted talks
-		veritasium
-		vsauce 1/2/3
-		wendover procutions
-	tech
-		bitwit
-		hak5
-		jayztwocents
-		linus tech tips
-			tech linked
-			tech quikie
-		pauls awesome hardware
-		unbox therapy
-	vocation
-		chubby emu
-		doctor mike
-		legal eagle
-		violin md
+	* html5/css3
+	* bootstrap
+	* javascript
+[skill ratings](https://www.nateliason.com/blog/become-expert-dreyfus)
+		
+[YouTube Subscription Playlist](https://github.com/Elijas/auto-youtube-subscription-playlist-2)
