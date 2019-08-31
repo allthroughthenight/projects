@@ -1,24 +1,33 @@
 # Projects
-#### Various ramblings that don't have their own repo (yet)
-
-### github TODO
-* new 'decoy' run
-* clean up 'new-box' and test with VirtualBox
+##### Ideas that don't have their own repo (yet)
 
 ### quant-life
 * [plotly](https://plot.ly/)
 * [matplotlib](https://matplotlib.org/)
 
-### Separate and crop family pictures archive
-* [Photoprism](https://github.com/photoprism/photoprism)
-* [Detectron](https://github.com/facebookresearch/Detectron)
-* [face_recognition](https://github.com/ageitgey/face_recognition)
+### Separate, upscale, tag, and archive family photos
+* Seperate
+	* Since scanned more than one photo at a time, need to seperate them
+	* Edge detect
+	* White backgrounds
+* Upscale
+	* [neural-enhance](https://github.com/alexjc/neural-enhance)
+	* [image-super-resolution](https://github.com/idealo/image-super-resolution)
+* Tag
+	* [Detectron](https://github.com/facebookresearch/Detectron)
+	* [face_recognition](https://github.com/ageitgey/face_recognition)
+	* [Photoprism](https://github.com/photoprism/photoprism)
 
-### uhunix Personal [Homepage](http://hawaii.edu/askus/694)
+### UHunix Personal [Homepage](http://hawaii.edu/askus/694)
 * [This is a motherfucking website](http://motherfuckingwebsite.com)
 * [This is still a motherfucking website](http://bettermotherfuckingwebsite.com)
 * [This is the best motherfucking website](https://thebestmotherfucking.website)
-* [SpaceJame](https://spacejam.com/archive/spacejam/movie/jam.htm)
-* [skill ratings](https://www.nateliason.com/blog/become-expert-dreyfus)
+* [SpaceJam](https://spacejam.com/archive/spacejam/movie/jam.htm)
 
 ### [YouTube Subscription Playlist](https://github.com/Elijas/auto-youtube-subscription-playlist-2)
+* Automatically maintain a playlist of all channels currently subscribed to
+* Easier to binge
+* Updates when new channels post
+* Avoids suggestions of autoplay
+* Can be done for specific interest: Cars, beauty, tech, gaming, etc
+
