@@ -32,8 +32,12 @@
 * Can be done for specific interest: Cars, beauty, tech, gaming, etc
 
 ### Job Market Skills: Grab bag of terms seen on multiple job postings
-* Meta
+* [Meta](https://en.wikipedia.org/wiki/Meta)
 	* [alex/what-happens-when](https://github.com/alex/what-happens-when)
+	* [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+	* [ossu/computer-science](https://github.com/ossu/computer-science)
+	* [Roadmaps for Developers](https://roadmap.sh/)
+	* [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 * [Software development process](https://en.wikipedia.org/wiki/Software_development_process)
 	* [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
 	* [Object-oriented design](https://en.wikipedia.org/wiki/Object-oriented_design)
