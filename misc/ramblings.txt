@@ -1,0 +1,38 @@
+random stuff i wanna try but don't have a clear goal/path/plan yet
+---
+code
+	https://magenta.as/a-month-of-hello-world-496a92b6cec3
+	---
+	diy katas
+	go
+	other paradigms
+	programming paradigms
+	rust
+courses
+	https://github.com/ossu/computer-science
+	https://github.com/jwasham/coding-interview-university
+	the algo textbook
+	the dragon textbook
+cyber
+	ctftime walkthroughs
+	cybrary
+	nops are us
+	hackthisite
+	smash the stack
+diy compile
+	http://www.linuxfromscratch.org
+	https://github.com/id-Software
+	https://github.com/Microsoft/calculator
+	https://github.com/Microsoft/MS-DOS
+	https://www.nand2tetris.org
+devops
+	ansible
+	ci/cd
+	docker
+	kuberneties
+	seed box and vpns
+	vmserver
+machine learning
+	deep fake (and the like)
+	tensor flow
+	https://thisxdoesnotexist.com/
