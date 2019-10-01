@@ -32,7 +32,14 @@ devops
 	kuberneties
 	seed box and vpns
 	vmserver
-machine learning
+ai/ml
+	https://thisxdoesnotexist.com
+	---
 	deep fake (and the like)
 	tensor flow
-	https://thisxdoesnotexist.com/
+	code combat
+		wiki.sc2ai.net/Main_Page
+		battlecode.org
+		halite.io
+		robocode.sourceforge.io
+		corewars.org
