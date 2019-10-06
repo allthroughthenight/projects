@@ -14,6 +14,8 @@ courses
 	the algo textbook
 	the dragon textbook
 cyber
+	https://0x00sec.org/
+	---
 	ctftime walkthroughs
 	cybrary
 	nops are us
@@ -34,6 +36,7 @@ devops
 	vmserver
 ai/ml
 	https://thisxdoesnotexist.com
+	https://github.com/ageron/handson-ml2
 	---
 	deep fake (and the like)
 	tensor flow
