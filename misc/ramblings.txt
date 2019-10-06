@@ -1,5 +1,17 @@
 random stuff i wanna try but don't have a clear goal/path/plan yet
 ---
+ai/ml
+	https://thisxdoesnotexist.com
+	https://github.com/ageron/handson-ml2
+	---
+	deep fake (and the like)
+	tensor flow
+	code combat
+		wiki.sc2ai.net/Main_Page
+		battlecode.org
+		halite.io
+		robocode.sourceforge.io
+		corewars.org
 code
 	https://magenta.as/a-month-of-hello-world-496a92b6cec3
 	---
@@ -8,11 +20,20 @@ code
 	other paradigms
 	programming paradigms
 	rust
+contribute
+	https://github.com/mps-youtube/mps-youtube
+	https://github.com/michael-lazar/rtv
 courses
 	https://github.com/ossu/computer-science
 	https://github.com/jwasham/coding-interview-university
 	the algo textbook
 	the dragon textbook
+creative
+	https://learningmusic.ableton.com/
+	---
+	3d animation/modeling
+	green screen and video editing
+	gimp/photoshop
 cyber
 	https://0x00sec.org/
 	---
@@ -27,6 +48,7 @@ diy compile
 	https://github.com/Microsoft/calculator
 	https://github.com/Microsoft/MS-DOS
 	https://www.nand2tetris.org
+	https://github.com/diasurgical/devilution
 devops
 	ansible
 	ci/cd
@@ -34,15 +56,6 @@ devops
 	kuberneties
 	seed box and vpns
 	vmserver
-ai/ml
-	https://thisxdoesnotexist.com
-	https://github.com/ageron/handson-ml2
-	---
-	deep fake (and the like)
-	tensor flow
-	code combat
-		wiki.sc2ai.net/Main_Page
-		battlecode.org
-		halite.io
-		robocode.sourceforge.io
-		corewars.org
+misc
+	make a launcher program for all the other sub programs
+	python modules
