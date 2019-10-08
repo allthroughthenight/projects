@@ -21,13 +21,14 @@ av
 	https://github.com/microsoft/AirSim
 	https://github.com/carla-simulator/carla
 code
+	https://javascript30.com
 	https://magenta.as/a-month-of-hello-world-496a92b6cec3
+	https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python
 	---
 	diy katas
-	go
-	other paradigms
+	go vs rust
+paradigms
 	programming paradigms
-	rust
 contribute
 	https://github.com/mps-youtube/mps-youtube
 	https://github.com/michael-lazar/rtv
@@ -77,6 +78,8 @@ robots
 	roomba
 		http://dp5.boards.net/thread/115/own-robot-vacuum-cleaner
 		https://www.instructables.com/id/Build-Your-Own-Vacuum-Robot/
+	http://www.theconstructsim.com/
+	https://gym.openai.com/
 	---
 	biped robo
 	hebocon
