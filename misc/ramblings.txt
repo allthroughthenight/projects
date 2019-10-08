@@ -40,8 +40,11 @@ contribute
 	https://github.com/mps-youtube/mps-youtube
 	https://github.com/michael-lazar/rtv
 courses
-	https://github.com/ossu/computer-science
-	https://github.com/jwasham/coding-interview-university
+	https://techdevguide.withgoogle.com/
+	https://developer.mozilla.org/en-US/docs/Learn
+	https://www.w3schools.com/
+	https://roadmap.sh/
+	---
 	the algo textbook
 	the dragon textbook
 creative
@@ -73,9 +76,17 @@ devops
 	kuberneties
 	seed box and vpns
 	vmserver
+grad school
+	https://github.com/ossu/computer-science
+	https://www.khanacademy.org/math/calculus-1
 hardware
 	3d printer
 	laser etcher
+interview
+	https://github.com/jwasham/coding-interview-university
+	https://www.hackerrank.com/interview/interview-preparation-kit
+	https://leetcode.com/
+	https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7
 misc launcher
 	make a launcher program for all the other sub programs
 	modules
