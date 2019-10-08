@@ -24,11 +24,18 @@ code
 	https://javascript30.com
 	https://magenta.as/a-month-of-hello-world-496a92b6cec3
 	https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python
+	https://www.codewars.com
+	https://codingbat.com/python
+	https://www.hackerrank.com/domains/tutorials/30-days-of-code
 	---
 	diy katas
 	go vs rust
 paradigms
-	programming paradigms
+	imparative
+		procedural, oop, parallel
+	declarative
+		logic, functional
+	strong and loose/weak typing
 contribute
 	https://github.com/mps-youtube/mps-youtube
 	https://github.com/michael-lazar/rtv
