@@ -12,6 +12,14 @@ ai/ml
 		halite.io
 		robocode.sourceforge.io
 		corewars.org
+android
+	publish to play store
+	---
+	how to update
+	what doe?
+av
+	https://github.com/microsoft/AirSim
+	https://github.com/carla-simulator/carla
 code
 	https://magenta.as/a-month-of-hello-world-496a92b6cec3
 	---
@@ -56,6 +64,22 @@ devops
 	kuberneties
 	seed box and vpns
 	vmserver
-misc
+hardware
+	3d printer
+	laser etcher
+misc launcher
 	make a launcher program for all the other sub programs
-	python modules
+	modules
+	project structure
+	cd/ci
+robots
+	roomba
+		http://dp5.boards.net/thread/115/own-robot-vacuum-cleaner
+		https://www.instructables.com/id/Build-Your-Own-Vacuum-Robot/
+	---
+	biped robo
+	hebocon
+	line follow racer
+	microsmouse
+	robot arm
+	sumobot
