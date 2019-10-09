@@ -41,6 +41,8 @@ contribute
 	https://github.com/michael-lazar/rtv
 courses
 	https://techdevguide.withgoogle.com/
+	https://javascript30.com/
+	https://www.codingforentrepreneurs.com/projects/30-days-python/
 	https://developer.mozilla.org/en-US/docs/Learn
 	https://www.w3schools.com/
 	https://roadmap.sh/
@@ -69,6 +71,8 @@ diy compile
 	https://github.com/Microsoft/MS-DOS
 	https://www.nand2tetris.org
 	https://github.com/diasurgical/devilution
+	https://github.com/hsoft/collapseos
+	https://www.youtube.com/watch?v=6MJUGVFAXKg
 devops
 	ansible
 	ci/cd
