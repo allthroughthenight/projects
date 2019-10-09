@@ -92,6 +92,12 @@ misc launcher
 	modules
 	project structure
 	cd/ci
+project managements
+	asana
+	github issues
+	kanban
+	monday.com
+	trello
 robots
 	roomba
 		http://dp5.boards.net/thread/115/own-robot-vacuum-cleaner
