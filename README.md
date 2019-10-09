@@ -18,7 +18,8 @@
 	* [face_recognition](https://github.com/ageitgey/face_recognition)
 	* [Photoprism](https://github.com/photoprism/photoprism)
 
-### UHunix Personal [Homepage](http://hawaii.edu/askus/694)
+### [github.io](https://allthroughthenight.github.io)
+###### ~~UHunix Personal [Homepage](http://hawaii.edu/askus/694)~~ [Update](https://github.com/allthroughthenight/projects/tree/master/misc/uh-ssh.png)
 * [This is a motherfucking website](http://motherfuckingwebsite.com)
 * [This is still a motherfucking website](http://bettermotherfuckingwebsite.com)
 * [This is the best motherfucking website](https://thebestmotherfucking.website)
