@@ -47,6 +47,10 @@ courses
 	https://www.w3schools.com/
 	https://roadmap.sh/
 	---
+	paid
+		https://www.pluralsight.com/codeschool
+		https://teamtreehouse.com/
+		https://training.talkpython.fm/courses/explore_100days_web/100-days-of-web-in-python
 	the algo textbook
 	the dragon textbook
 creative
