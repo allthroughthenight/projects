@@ -3,6 +3,8 @@ random stuff i wanna try but don't have a clear goal/path/plan yet
 ai/ml
 	https://thisxdoesnotexist.com
 	https://github.com/ageron/handson-ml2
+	https://github.com/facebookresearch/detectron2
+	https://news.ycombinator.com/item?id=21240057
 	---
 	deep fake (and the like)
 	tensor flow
@@ -46,6 +48,7 @@ courses
 	https://developer.mozilla.org/en-US/docs/Learn
 	https://www.w3schools.com/
 	https://roadmap.sh/
+	https://www.mooc-list.com/
 	---
 	paid
 		https://www.pluralsight.com/codeschool
@@ -84,6 +87,11 @@ devops
 	kuberneties
 	seed box and vpns
 	vmserver
+electronics
+	https://www.hnsa.org/manuals-documents/2575-2/
+	https://www.electronics-tutorials.ws/
+	https://www.allaboutcircuits.com/education/
+	http://electronics.wisc-online.com/
 grad school
 	https://github.com/ossu/computer-science
 	https://www.khanacademy.org/math/calculus-1
@@ -100,6 +108,8 @@ misc launcher
 	modules
 	project structure
 	cd/ci
+misc skills
+	https://www.youtube.com/playlist?list=PLNzrbm54vMGd2w16OQvtApxat5q9XNen5
 project managements
 	asana
 	github issues
