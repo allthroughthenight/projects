@@ -32,12 +32,6 @@ code
 	---
 	diy katas
 	go vs rust
-paradigms
-	imparative
-		procedural, oop, parallel
-	declarative
-		logic, functional
-	strong and loose/weak typing
 contribute
 	https://github.com/mps-youtube/mps-youtube
 	https://github.com/michael-lazar/rtv
@@ -49,6 +43,7 @@ courses
 	https://www.w3schools.com/
 	https://roadmap.sh/
 	https://www.mooc-list.com/
+	https://github.com/danistefanovic/build-your-own-x
 	---
 	paid
 		https://www.pluralsight.com/codeschool
@@ -65,8 +60,12 @@ creative
 	krita
 cyber
 	https://0x00sec.org/
+	https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+	https://github.com/hmaverickadams/Beginner-Network-Pentesting
+	https://github.com/enaqx/awesome-pentest
+	https://medium.com/bugbountywriteup
+	https://ctftime.org/writeups
 	---
-	ctftime walkthroughs
 	cybrary
 	nops are us
 	hackthisite
@@ -92,6 +91,13 @@ electronics
 	https://www.electronics-tutorials.ws/
 	https://www.allaboutcircuits.com/education/
 	http://electronics.wisc-online.com/
+e-reader
+	https://github.com/koreader/koreader/wiki
+	https://github.com/joeycastillo/The-Open-Book
+	https://openlibrary.org/
+	https://www.bookbub.com/ebook-deals/free-ebooks
+	https://www.gutenberg.org/
+	https://bookriot.com/2017/08/28/free-books-online/
 grad school
 	https://github.com/ossu/computer-science
 	https://www.khanacademy.org/math/calculus-1
@@ -103,6 +109,8 @@ interview
 	https://www.hackerrank.com/interview/interview-preparation-kit
 	https://leetcode.com/
 	https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7
+linux
+	https://linuxjourney.com
 misc launcher
 	make a launcher program for all the other sub programs
 	modules
@@ -110,6 +118,17 @@ misc launcher
 	cd/ci
 misc skills
 	https://www.youtube.com/playlist?list=PLNzrbm54vMGd2w16OQvtApxat5q9XNen5
+paradigms
+	imparative
+		procedural, oop, parallel
+	declarative
+		logic, functional
+	strong and loose/weak typing
+privacy
+	https://restoreprivacy.com/firefox-privacy/
+	https://www.privacytools.io/
+	https://github.com/ajvb/awesome-tor
+	https://micahflee.com/2019/10/new-version-of-onionshare-makes-it-easy-for-anyone-to-publish-anonymous-uncensorable-websites/
 project managements
 	asana
 	github issues
