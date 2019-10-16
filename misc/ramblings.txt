@@ -46,6 +46,8 @@ courses
 	https://roadmap.sh/
 	https://www.mooc-list.com/
 	https://github.com/danistefanovic/build-your-own-x
+	https://www.w3schools.com/cert/default.asp
+	https://docs.oracle.com/javase/tutorial/extra/certification/javase-8-programmer1.html
 	---
 	paid
 		https://www.pluralsight.com/codeschool
@@ -113,8 +115,6 @@ interview
 	https://www.hackerrank.com/interview/interview-preparation-kit
 	https://leetcode.com/
 	https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7
-linux
-	https://linuxjourney.com
 misc launcher
 	make a launcher program for all the other sub programs
 	modules
@@ -152,6 +152,9 @@ robots
 	microsmouse
 	robot arm
 	sumobot
+review
+	https://linuxjourney.com/
+	https://github.com/alex/what-happens-when
 windows
 	windows program
 	installer
