@@ -67,6 +67,8 @@ cyber
 	https://github.com/enaqx/awesome-pentest
 	https://medium.com/bugbountywriteup
 	https://ctftime.org/writeups
+	https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+	https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
 	---
 	cybrary
 	nops are us
