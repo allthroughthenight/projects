@@ -85,6 +85,7 @@ diy compile
 	https://github.com/diasurgical/devilution
 	https://github.com/hsoft/collapseos
 	https://www.youtube.com/watch?v=6MJUGVFAXKg
+	https://training.linuxfoundation.org/resources/free-courses/a-beginners-guide-to-linux-kernel-development/
 devops
 	ansible
 	ci/cd
