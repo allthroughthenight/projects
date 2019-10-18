@@ -28,8 +28,10 @@ code
 	https://javascript30.com
 	https://magenta.as/a-month-of-hello-world-496a92b6cec3
 	https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python
+	https://github.com/Avik-Jain/100-Days-Of-ML-Code
 	https://www.codewars.com
 	https://codingbat.com/python
+	https://www.codingforentrepreneurs.com/projects/30-days-python/
 	https://www.hackerrank.com/domains/tutorials/30-days-of-code
 	---
 	diy katas
@@ -40,7 +42,6 @@ contribute
 courses
 	https://techdevguide.withgoogle.com/
 	https://javascript30.com/
-	https://www.codingforentrepreneurs.com/projects/30-days-python/
 	https://developer.mozilla.org/en-US/docs/Learn
 	https://www.w3schools.com/
 	https://roadmap.sh/
