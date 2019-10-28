@@ -24,6 +24,9 @@ android
 av
 	https://github.com/microsoft/AirSim
 	https://github.com/carla-simulator/carla
+bootcamps
+	https://www.coursereport.com/best-online-bootcamps
+	https://www.switchup.org/rankings/best-online-bootcamps
 code
 	https://javascript30.com
 	https://magenta.as/a-month-of-hello-world-496a92b6cec3
@@ -64,19 +67,30 @@ creative
 	gimp/photoshop
 	krita
 cyber
-	https://0x00sec.org/
-	https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
-	https://github.com/hmaverickadams/Beginner-Network-Pentesting
-	https://github.com/enaqx/awesome-pentest
-	https://medium.com/bugbountywriteup
-	https://ctftime.org/writeups
-	https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
-	https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
-	---
-	cybrary
-	nops are us
-	hackthisite
-	smash the stack
+	communities
+		https://0x00sec.org/
+		https://disboard.org/servers/tag/hacking
+		https://disboard.org/servers/tag/pentesting
+	learning
+		https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+		https://github.com/danielmiessler/SecLists
+		https://github.com/enaqx/awesome-pentest
+		https://github.com/hmaverickadams/Beginner-Network-Pentesting
+		https://www.cybrary.it
+	targets
+		https://github.com/vulhub/vulhub
+		https://github.com/ethicalhack3r/DVWA
+		https://github.com/cliffe/SecGen
+		https://github.com/rapid7/metasploitable3
+	watch
+		https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+		https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
+	walk throughs
+		https://medium.com/bugbountywriteup
+		https://ctftime.org/writeups
+		https://nopsr.us
+		https://www.hackthissite.org
+		http://smashthestack.org
 diy compile
 	http://www.linuxfromscratch.org
 	https://github.com/id-Software
@@ -113,10 +127,11 @@ hardware
 	3d printer
 	laser etcher
 interview
-	https://github.com/jwasham/coding-interview-university
-	https://www.hackerrank.com/interview/interview-preparation-kit
-	https://leetcode.com/
 	https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7
+	https://github.com/30-seconds/30-seconds-of-code
+	https://github.com/jwasham/coding-interview-university
+	https://leetcode.com/
+	https://www.hackerrank.com/interview/interview-preparation-kit
 misc launcher
 	make a launcher program for all the other sub programs
 	modules
