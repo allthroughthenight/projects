@@ -2,8 +2,15 @@
 ##### Ideas that don't have their own repo (yet)
 
 ### quant-life
-* [plotly](https://plot.ly/)
-* [matplotlib](https://matplotlib.org/)
+* Libraries
+	* [plotly](https://plot.ly/)
+	* [matplotlib](https://matplotlib.org/)
+* Focuses
+	* **Budget**: consolidate monthly workbooks into one yearly workbook with their own worksheets
+	* **Diet and Weight**: Track both together, along with bmi measurements (neck and waist)
+	* **Exercise**: Ignore machin type(s), only seperate by exercise/motion
+	* **Mood Tracking**: Currently no app since no web apps, but is it easier manually?
+	* **Run Times**
 
 ### Separate, upscale, tag, and archive family photos
 * Seperate
