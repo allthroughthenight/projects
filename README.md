@@ -1,6 +1,19 @@
 # Projects
 ##### Ideas that don't have their own repo (yet)
 
+### [City Pop]() English Cover
+* [Get started making music](https://learningmusic.ableton.com/)
+* [Sparkle - Tatsuro Yamashita (English)](https://www.youtube.com/watch?v=vuRT7Oszwio)
+* [Sparkle - Tatsuro Yamashita (English Subs)](https://www.youtube.com/watch?v=YsCEbLGo07I)
+* [Plastic Love - Mariya Takeuchi (English)](https://www.youtube.com/watch?v=vunm-W-ovLc)
+
+### [github.io](https://allthroughthenight.github.io)
+###### ~~UHunix Personal [Homepage](http://hawaii.edu/askus/694)~~ [Update](https://github.com/allthroughthenight/projects/tree/master/misc/uh-ssh.png)
+* [This is a motherfucking website](http://motherfuckingwebsite.com)
+* [This is still a motherfucking website](http://bettermotherfuckingwebsite.com)
+* [This is the best motherfucking website](https://thebestmotherfucking.website)
+* [SpaceJam](https://spacejam.com/archive/spacejam/movie/jam.htm)
+
 ### quant-life
 * Libraries
 	* [plotly](https://plot.ly/)
@@ -24,13 +37,6 @@
 	* [Detectron](https://github.com/facebookresearch/Detectron)
 	* [face_recognition](https://github.com/ageitgey/face_recognition)
 	* [Photoprism](https://github.com/photoprism/photoprism)
-
-### [github.io](https://allthroughthenight.github.io)
-###### ~~UHunix Personal [Homepage](http://hawaii.edu/askus/694)~~ [Update](https://github.com/allthroughthenight/projects/tree/master/misc/uh-ssh.png)
-* [This is a motherfucking website](http://motherfuckingwebsite.com)
-* [This is still a motherfucking website](http://bettermotherfuckingwebsite.com)
-* [This is the best motherfucking website](https://thebestmotherfucking.website)
-* [SpaceJam](https://spacejam.com/archive/spacejam/movie/jam.htm)
 
 ### [YouTube Subscription Playlist](https://github.com/Elijas/auto-youtube-subscription-playlist-2)
 * Automatically maintain a playlist of all channels currently subscribed to
