@@ -1,7 +1,7 @@
 # Projects
 ##### Ideas that don't have their own repo (yet)
 
-### [City Pop]() English Cover
+### [City Pop](https://en.wikipedia.org/wiki/City_pop) English Cover
 * [Get started making music](https://learningmusic.ableton.com/)
 * [Sparkle - Tatsuro Yamashita (English)](https://www.youtube.com/watch?v=vuRT7Oszwio)
 * [Sparkle - Tatsuro Yamashita (English Subs)](https://www.youtube.com/watch?v=YsCEbLGo07I)
