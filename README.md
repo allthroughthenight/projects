@@ -22,7 +22,8 @@
 ### Separate, upscale, tag, and archive family photos
 * Seperate
 	* Since scanned more than one photo at a time, need to seperate them
-	* Detect edge against white background from scanner
+	* Edge detect
+	* White backgrounds
 * Upscale
 	* [neural-enhance](https://github.com/alexjc/neural-enhance)
 	* [image-super-resolution](https://github.com/idealo/image-super-resolution)
@@ -33,6 +34,12 @@
 
 ### [YouTube Subscription Playlist](https://github.com/Elijas/auto-youtube-subscription-playlist-2)
 * Automatically maintain a playlist of all channels currently subscribed to
-* Avoids suggestions of autoplay, so it's easier to binge
-* Specify topics (cars, beauty, tech, etc) to avoid [missing videos](https://www.tubefilter.com/2018/05/24/youtube-subscription-feed-algorithm-test/)
-* Updates topic playlists when channels have a new video
+* Easier to binge
+* Updates when new channels post
+* Avoids suggestions of autoplay
+* Can be done for specific interest: Cars, beauty, tech, gaming, etc
+* Links
+	* [developers.google.com/youtube](https://developers.google.com/youtube)
+	* [huginn](https://github.com/huginn/huginn)
+	* [IFTTT](https://ifttt.com/)
+	* [Youtube API 3 get latest videos](https://stackoverflow.com/questions/32074112/youtube-api-3-get-latest-videos)
