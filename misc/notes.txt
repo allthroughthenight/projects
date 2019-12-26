@@ -1,0 +1,14 @@
+ci/cd
+	git repo README badges
+city pop english covers
+	music production: https://learningmusic.ableton.com/
+	separate audio tracks: https://github.com/deezer/spleeter
+	plastic love: https://www.youtube.com/watch?v=vunm-W-ovLc
+	sparkle: https://www.youtube.com/watch?v=vuRT7Oszwio
+	ride on time: https://www.youtube.com/watch?v=lL1aO3tTu6I
+personal crm
+	https://www.monicahq.com/
+propoganda
+	blender, krita, gimp, green screening
+	https://github.com/CorentinJ/Real-Time-Voice-Cloning
+	https://github.com/aerophile/awesome-deepfakes

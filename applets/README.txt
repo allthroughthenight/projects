@@ -1,0 +1,28 @@
+tldr
+	make an applet launcher for all these .py files
+	or consolidate into one project, following proper python project structur
+	import as needed with main menu and such
+	gui?
+pyinstaller
+	brain dump of how to cross-compile python on linux for windows via pyinstaller and wine
+
+	pyinstaller and wine
+	https://www.sparkandshine.net/build-a-windows-executable-from-python-scripts-on-linux/
+	https://www.andreafortuna.org/2017/12/27/how-to-cross-compile-a-python-script-into-a-windows-executable-on-linux/
+
+	wine and ubuntu server
+	https://linustechtips.com/main/topic/731012-how-can-i-install-wine-server-on-ubuntu-server-14/
+	https://wiki.winehq.org/Ubuntu
+	https://ubuntuforums.org/showthread.php?t=2367829
+
+	tl;dr
+	$ mkdir temp-dir; cd temp-dir
+	$ sudo apt install -y wine-stable winetricks
+	$ wget https://www.python.org/ftp/python/3.4.3/python-3.4.3.amd64.msi
+	$ wine msiexec /i python-3.4.3.amd64.msi /qb
+	$ cd ~/.wine/drive_c/Python27
+	$ wine python.exe Scripts/pip3.exe install pyinstaller
+	$ cat helloworld.py
+	print("Hello World!")
+	input() # to prevent CMD window from closing
+	$ wine ~/.wine/drive_c/Python34/Scripts/pyinstaller.exe --onefile --distpath ./ hello-world.py
