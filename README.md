@@ -3,10 +3,14 @@
 
 ### [github.io](https://allthroughthenight.github.io)
 ###### ~~UHunix Personal [Homepage](http://hawaii.edu/askus/694)~~ [Update](https://github.com/allthroughthenight/projects/tree/master/misc/uh-ssh.png)
-* [This is a motherfucking website](http://motherfuckingwebsite.com)
-* [This is still a motherfucking website](http://bettermotherfuckingwebsite.com)
-* [This is the best motherfucking website](https://thebestmotherfucking.website)
-* [SpaceJam](https://spacejam.com/archive/spacejam/movie/jam.htm)
+* Downloadable cross-platform python applet launcher
+* Fork other github.io templates
+* Full length resume and info
+* Links
+	* [This is a motherfucking website](http://motherfuckingwebsite.com)
+	* [This is still a motherfucking website](http://bettermotherfuckingwebsite.com)
+	* [This is the best motherfucking website](https://thebestmotherfucking.website)
+	* [SpaceJam](https://spacejam.com/archive/spacejam/movie/jam.htm)
 
 ### quant-life
 * Libraries
@@ -39,6 +43,7 @@
 * Avoids suggestions of autoplay
 * Can be done for specific interest: Cars, beauty, tech, gaming, etc
 * Links
+	* [Amazing Developers On YouTube](https://github.com/ErikCH/DevYouTubeList)
 	* [developers.google.com/youtube](https://developers.google.com/youtube)
 	* [huginn](https://github.com/huginn/huginn)
 	* [IFTTT](https://ifttt.com/)
