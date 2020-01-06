@@ -6,6 +6,7 @@
 * Downloadable cross-platform python applet launcher
 * Fork other github.io templates
 * Full length resume and info
+* Later On - Promotional Items: Business cards, magnets, stickers, USB drives
 * Links
 	* [This is a motherfucking website](http://motherfuckingwebsite.com)
 	* [This is still a motherfucking website](http://bettermotherfuckingwebsite.com)
