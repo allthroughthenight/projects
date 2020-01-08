@@ -3,6 +3,9 @@ tldr
 	or consolidate into one project, following proper python project structur
 	import as needed with main menu and such
 	gui?
+papa programmer
+	https://www.youtube.com/watch?v=y1Io0XgD1Ow
+	https://www.youtube.com/watch?v=toe8wcSiuak
 pyinstaller
 	brain dump of how to cross-compile python on linux for windows via pyinstaller and wine
 
