@@ -4,14 +4,8 @@
 ### [github.io](https://allthroughthenight.github.io)
 ###### ~~UHunix Personal [Homepage](http://hawaii.edu/askus/694)~~ [Update](https://github.com/allthroughthenight/projects/tree/master/misc/uh-ssh.png)
 * Downloadable cross-platform python applet launcher
-* Fork other github.io templates
 * Full length resume and info
-* Later On - Promotional Items: Business cards, magnets, stickers, USB drives
-* Links
-	* [This is a motherfucking website](http://motherfuckingwebsite.com)
-	* [This is still a motherfucking website](http://bettermotherfuckingwebsite.com)
-	* [This is the best motherfucking website](https://thebestmotherfucking.website)
-	* [SpaceJam](https://spacejam.com/archive/spacejam/movie/jam.htm)
+* Migrate from Wordpress.com to [jeykll](https://import.jekyllrb.com/docs/wordpressdotcom/)
 
 ### quant-life
 * Libraries
@@ -21,7 +15,6 @@
 	* **Budget**: Consolidate monthly workbooks into one yearly workbook with their own worksheets
 	* **Diet and Weight**: Track both together, along with BMI measurements (neck and waist)
 	* **Exercise**: Ignore machine manufacturers, group by exercise
-	* **Mood Tracking**: Currently no app since no web apps, but is it easier manually?
 	* **Run Times**
 
 ### Separate, upscale, tag, and archive family photos
