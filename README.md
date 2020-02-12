@@ -3,7 +3,7 @@
 
 ### [github.io](https://allthroughthenight.github.io)
 ###### ~~UHunix Personal [Homepage](http://hawaii.edu/askus/694)~~ [Update](https://github.com/allthroughthenight/projects/tree/master/misc/uh-ssh.png)
-* Downloadable cross-platform python applet launcher
+* Downloadable cross-platform python [applet](https://github.com/allthroughthenight/projects/tree/master/applets) launcher
 * Full length resume and info
 * Migrate from Wordpress.com to [jeykll](https://import.jekyllrb.com/docs/wordpressdotcom/)
 

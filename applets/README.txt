@@ -51,3 +51,5 @@ pyinstaller
 	though not righteous, a windows vm is better for ease of maintainability (and less jank) in the long run
 	quick search returned the following, so win10 vms might be easier that assumed
 		https://dev.to/jeikabu/reusable-windows-vms-with-vagrant-2h5c
+todo
+	 car fuel cost calculator: mpg, mpg calc, gas tank size, week/month/year costs
