@@ -1,3 +1,5 @@
+how to run
+	python 3 __main__.py
 tldr
 	make an applet launcher for all these .py files
 	or consolidate into one project, following proper python project structur
