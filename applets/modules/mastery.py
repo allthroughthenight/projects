@@ -1,12 +1,12 @@
 #
-# Challenge
+# 10,000 hours calculator
+# examles
+#   http://www.10000hourcalc.com
+#   https://toolstud.io/calculate/practice.php
 #
-# 10,000 hours calculator like [this](http://www.10000hourcalc.com/) or [this](https://toolstud.io/calculate/practice.php)
-#
-# To-Do
-#
-# Exact down to the day, maybe hour
-# Validate input
+# TODO
+# exact down to the day, maybe hour?
+# validate input
 
 # preamble
 def run():
