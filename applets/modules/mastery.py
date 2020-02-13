@@ -15,7 +15,7 @@ def title():
     print("Copyright 2018")
     print("")
 
-def input()
+def input():
     # input prompt
     days = float(input("How many days a week will you practice? (1-7): "))
     hours = float(input("How many hours per day will you practice? (1-23): "))
@@ -42,6 +42,6 @@ def calc2():
     # find remainer weeks when compared to how many per year
     extraWeeks = totalWeeks % 54
 
-def hours2()
+def hours2():
     # print total
     print("Total time - %.0f years and %.0f weeks" % (totalYears, extraWeeks))

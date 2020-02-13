@@ -1,3 +1,4 @@
 from modules import mastery as mastery
 
-mastery.title()
+if (__name__ == '__main__'):
+    mastery.title()
