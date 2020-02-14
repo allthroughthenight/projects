@@ -57,13 +57,14 @@ Discount code for various tech services from various sources
 | Source | Shop |
 |--------|------|
 | [BitsDuJour](https://www.bitsdujour.com)               | `https://bitsdujour.stacksocial.com` |
-| [Bleeping Computer](https://www.bleepingcomputer.com/) |`https://deals.bleepingcomputer.com`  |
+| [Bleeping Computer](https://www.bleepingcomputer.com/) | `https://deals.bleepingcomputer.com` |
 | [Cult Of Mac](https://www.cultofmac.com/)              | `https://deals.cultofmac.com`        |
-| [FOSS Bytes](https://fossbytes.com/)                   |`https://deals.fossbytes.com`         |
+| [FOSS Bytes](https://fossbytes.com/)                   | `https://deals.fossbytes.com`        |
 | [Mac Bundler](https://mac-bundles.com)                 | `https://macbundler.stacksocial.com` |
 | [Make Use Of](https://www.makeuseof.com/)              | `https://deals.makeuseof.com`        |
-| [Slashdot](https://slashdot.org/)                      |`https://deals.slashdot.org/`         |
-| [The Hacker News](https://thehackernews.com/)          |`https://deals.thehackernews.com`     |
+| [Paste Bin](https://deals.pastebin.com/)               | `https://deals.pastebin.com/`        |
+| [Slashdot](https://slashdot.org/)                      | `https://deals.slashdot.org/`        |
+| [The Hacker News](https://thehackernews.com/)          | `https://deals.thehackernews.com`    |
 | [The Next Web](https://thenextweb.com/)                | `https://deals.thenextweb.com`       |
 
 ## Contribute
