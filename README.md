@@ -12,14 +12,13 @@
 	* [plotly](https://plot.ly/)
 	* [matplotlib](https://matplotlib.org/)
 * Focuses
-	* **Budget**: Consolidate monthly workbooks into one yearly workbook with their own worksheets
 	* **Diet and Weight**: Track both together, along with BMI measurements (neck and waist)
 	* **Exercise**: Ignore machine manufacturers, group by exercise
 	* **Run Times**
 
 ### Separate, upscale, tag, and archive family photos
 * Seperate
-	* Since scanned more than one photo at a time, need to seperate them
+	* More than one photo scanned at a time, need to seperate
 	* Edge detect
 	* White backgrounds
 * Upscale
