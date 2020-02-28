@@ -29,16 +29,3 @@
 	* [Detectron](https://github.com/facebookresearch/Detectron)
 	* [face_recognition](https://github.com/ageitgey/face_recognition)
 	* [Photoprism](https://github.com/photoprism/photoprism)
-
-### [YouTube Subscription Playlist](https://github.com/Elijas/auto-youtube-subscription-playlist-2)
-* Automatically maintain a playlist of all channels currently subscribed to
-* Easier to binge
-* Updates when new channels post
-* Avoids suggestions of autoplay
-* Can be done for specific interest: Cars, beauty, tech, gaming, etc
-* Links
-	* [Amazing Developers On YouTube](https://github.com/ErikCH/DevYouTubeList)
-	* [developers.google.com/youtube](https://developers.google.com/youtube)
-	* [huginn](https://github.com/huginn/huginn)
-	* [IFTTT](https://ifttt.com/)
-	* [Youtube API 3 get latest videos](https://stackoverflow.com/questions/32074112/youtube-api-3-get-latest-videos)
