@@ -1,10 +1,8 @@
 # Hello, World!
 
-From [Wikipedia](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program): A "Hello, World!" program displays the message "Hello, World!". These programs are simple, and often used to show the basic syntax of a language. They're often the first program written by people learning to code.
+From [Wikipedia](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program): `A "Hello, World!" program displays the message "Hello, World!". These programs are simple, and often used to show the basic syntax of a language. They're often the first program written by people learning to code.`
 
-This was inspired by [A Month of “Hello, World!”](https://magenta.as/a-month-of-hello-world-496a92b6cec3), but I don't plan on keeping that strict of a schedule, or only limit myself to only 30 languages.
-
-I'll be referencing Wikipedia's [List of Progamming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages) and Esolang's [Language list](https://esolangs.org/wiki/Language_list) to keep things from getting boring.
+I was inspired to do this after reading [A Month of “Hello, World!”](https://magenta.as/a-month-of-hello-world-496a92b6cec3). I'll be referencing Wikipedia's [List of Progamming Languages](https://en.wikipedia.org/wiki/List_of_programming_languages) along with Esolang's [Language list](https://esolangs.org/wiki/Language_list) to keep things from getting boring.
 
 ### Directories
 * README.md
