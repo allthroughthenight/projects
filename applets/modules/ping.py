@@ -1,6 +1,8 @@
+# Ping various Five Nine sites to troubleshoot networking issues
+
 import os
 
-sites = ["goole",
+sites = ["google",
         "yahoo",
         "facebook",
         "twitter",
@@ -8,17 +10,16 @@ sites = ["goole",
         "duckduckgo",
         "discordapp",
         "youtube",
-        "instagram",]
+        "instagram"]
+sites.sort()
 
-# TODO
-# how to break out of loop
-# or just log silently and wait for input to terminate?
+# TODO: how to loop continuously, but still able to break-out whenever, could
+# be done by multi-threading command and input listener
+# TODO: should output be logged in the background to file and/or less 
+# verbose printout(s)
 def run():
-    try:
-        while True:
-            for x in sites:
-                os.system("ping -qc 5 {}.com".format(x))
-    except KeyboardInterrupt:
-        print("Exiting")
-        exit()
-
+    print("Sites to Ping")
+    for x in sites:
+        print(" - {}".format(x))
+    for x in sites:
+        os.system("ping -qc 5 {}.com".format(x))

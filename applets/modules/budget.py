@@ -1,41 +1,22 @@
-# Monthly budget calculator based on income
-#
-# To-Do
-#
-# Better design i.e. use functions and not one file
-# Menu to select options
-# Validate input
-# salary based on minimum requirements for housing
-# see how adjusting budget and bounds affect ideal income
-
-# easy convert from hourly to salaried and vice versa
-# https://www.hourlysalaries.com/salaryhourly.php
-
-# other examples
-# https://www.bankrate.com/calculators/savings/moving-cost-of-living-calculator.aspx
-# https://www.nerdwallet.com/cost-of-living-calculator
-# https://www.mytrove.com/ca/san-francisco/cheddar/software-application-developers
+# Buget calculator
 
 def run():
-    # preamble
-    print("")
     print("Budget Calculator")
-    print("Copyright 2018")
-    print("")
 
-    # 20% left over
-    # ---
+    monthly = float(input("What is your monthly income?: "))
+
+    idealBudget = input("Would you like an ideal budget? Y/N: ")
+    
+    # Ideal Budget
     # 25% housing
     # 15% savings
     # 15% transportation
     # 10% food
     # 10% utilities
     # 5% healthcare
-
-    # input prompt
-    monthly = float(input("What is your monthly income?: "))
-
-    idealBudget = input("Would you like an ideal budget? Y/N: ")
+    # ---
+    # 20% left over
+    
     if idealBudget == "Y":
         foodBudget = .10
         healthcareBudget = .05
@@ -51,7 +32,8 @@ def run():
         utilitiesBudget = (float(input("Utilities budget?: "))) / 100
         savingBudget = (float(input("How much would you like to save?: "))) / 100
 
-    total = housingBudget + savingBudget + transportationBudget + foodBudget + utilitiesBudget + healthcareBudget
+    total = housingBudget + savingBudget + transportationBudget + \
+        foodBudget + utilitiesBudget + healthcareBudget
     extra = 0.0
 
     if total > 1:

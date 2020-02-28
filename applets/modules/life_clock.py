@@ -1,11 +1,4 @@
-# Challenge
-# Life expectancy clock like [this](https://github.com/adamtait/ArduinoDeathClock)
-#
-# To-Do
-# Ask life questions and query database(s) to automate estimation
-# Exact down to the day, maybe hour
-# Use network time clock
-# Validate input
+# Life expectancy clock
 
 from datetime import date
 

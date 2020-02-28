@@ -1,14 +1,5 @@
-#
-# 10,000 hours calculator
-# examles
-#   http://www.10000hourcalc.com
-#   https://toolstud.io/calculate/practice.php
-#
-# TODO
-# exact down to the day, maybe hour?
-# validate input
+# 10,000 hours to Mastery calculator
 
-# preamble
 def run():
     print("")
     print("10,000 Hours to Mastery Calculator")
@@ -18,7 +9,7 @@ def run():
     days = float(input("How many days a week will you practice? (1-7): "))
     hours = float(input("How many hours per day will you practice? (1-23): "))
 
-    # calculate weekly hours`
+    # calculate weekly hours
     weekly = days * hours
 
     # calculate yearly hours

@@ -11,15 +11,13 @@ Discount code for various tech services from various sources
 | [Changelog](https://changelog.com/)                     | `https://do.co/changelog` | $50 |
 | [Cloudcast](https://www.thecloudcast.net/)              | `https://do.co/cloudcast` | $50 |
 | [DEV](https://dev.to/)                                  | `https://do.co/devto`     | $50 |
-| ~~[Developer Tea](https://spec.fm/podcasts/developer-tea)~~ | ~~`https://do.co/devtea`~~| ~~$50~~ |
-
 
 ### [Linode](https://www.linode.com/)
 
 | Source | Link | Code | Credit |
 |--------|------|------|--------|
 | [Changelog](https://changelog.com/)                     | `https://linode.com/changelog`    | `changelog2019`    | $20 |
-| [Developer Tea](https://spec.fm/podcasts/developer-tea) | `https://linode.com/developertea` | `developertea2019` | $20 |
+| [Developer Tea](https://spec.fm/podcasts/developer-tea) | `https://linode.com/developertea` | `developertea2020` | $20 |
 | [Talk Python To Me](https://talkpython.fm/)             | `https://linode.com/talkpython`   | `¯\_(ツ)_/¯`       | $20 |
 
 ## [VPNs](https://thatoneprivacysite.net/)

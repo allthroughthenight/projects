@@ -11,7 +11,7 @@ if (__name__ == '__main__'):
             print("1: Budget")
             print("2: Life Clock")
             print("3: Mastery")
-            print("4: Ping")
+            print("4: Ping Five Nines")
             print("5: Public IP Address")
             choice = int(input("Enter Your Choice: "))
 
