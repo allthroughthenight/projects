@@ -28,3 +28,8 @@
 	* [Detectron](https://github.com/facebookresearch/Detectron)
 	* [face_recognition](https://github.com/ageitgey/face_recognition)
 	* [Photoprism](https://github.com/photoprism/photoprism)
+
+### DIY Compile
+* [Game Engine Black Book: Doom](http://fabiensanglard.net/gebbdoom/)
+* [Inspiration](https://www.youtube.com/watch?v=ZU4-7jltj0o)
+* [id Software](https://github.com/id-Software)
