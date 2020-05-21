@@ -35,3 +35,10 @@
 * [Game Engine Black Book: Doom](http://fabiensanglard.net/gebbdoom/)
 * [Inspiration](https://www.youtube.com/watch?v=ZU4-7jltj0o)
 * [id Software](https://github.com/id-Software)
+* Microsoft
+	* [Calculator](https://github.com/microsoft/calculator)
+	* [MS-DOS](https://github.com/microsoft/MS-DOS)
+* Red Alert
+	* [EA Open Source](https://www.reddit.com/r/commandandconquer/comments/gnevp8/remaster_update_and_open_source_mod_support/)
+	* [OpenRA](https://www.openra.net/)
+* [Warzone 2100](https://wz2100.net/)
