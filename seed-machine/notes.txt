@@ -1,0 +1,8 @@
+tl;dr - mainland isp's don't play so i gotta step up my p2p game
+
+i.e. ansible all-in-one playbook for a vagrant box and such
+
+https://gist.github.com/joepie91/5a9909939e6ce7d09e29
+https://thatoneprivacysite.net/
+https://the-eye.eu/
+https://github.com/popcorn-official
