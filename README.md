@@ -42,3 +42,6 @@
 	* [EA Open Source](https://www.reddit.com/r/commandandconquer/comments/gnevp8/remaster_update_and_open_source_mod_support/)
 	* [OpenRA](https://www.openra.net/)
 * [Warzone 2100](https://wz2100.net/)
+
+### Wednesday Discord Bot
+* [TBD](https://www.youtube.com/playlist?list=PLy3-VH7qrUZ5IVq_lISnoccVIYZCMvi-8)
