@@ -10,3 +10,7 @@
 	* [Detectron](https://github.com/facebookresearch/Detectron)
 	* [face_recognition](https://github.com/ageitgey/face_recognition)
 	* [Photoprism](https://github.com/photoprism/photoprism)
+### Voice Cloning
+* [GitHub](https://github.com/topics/voice-cloning)
+* [Google](https://www.google.com/search?hl=en&q=voice%20cloning)
+* [Youtube](https://www.youtube.com/results?search_query=voiec+cloning)
