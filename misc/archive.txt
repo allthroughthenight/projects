@@ -1,0 +1,22 @@
+computer chronicles
+https://archive.org/details/Computer_Chronicles
+https://www.thetvdb.com/series/computer-chronicles
+
+net cafe
+https://archive.org/details/netcafe
+https://www.thetvdb.com/series/net-cafe
+
+soko ga shiritai (tbd)
+https://www.thetvdb.com/series/soko-ga-shiritai
+
+frank delima
+raps hawaii
+larry haun
+this old house
+
+seed machine , tl;dr - mainland isp's don't play so i gotta step up my p2p game i.e. ansible all-in-one playbook for a vagrant box and such
+also check out discount codes for cloud instances and consumer vpns
+https://gist.github.com/joepie91/5a9909939e6ce7d09e29
+https://thatoneprivacysite.net/
+https://the-eye.eu/
+https://github.com/popcorn-official
