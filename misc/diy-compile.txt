@@ -1,4 +1,0 @@
-red alert, quake, doom, dos, linux, warzone 2055
-https://github.id-Software
-github: id software, microsoft, tinkernut make your own os, other game/foss for diy compile
-http://www.linuxfromscratch.org
