@@ -12,6 +12,7 @@ vidya
   cyberpunk/technobabylon/Nick Bounty point and click adventure game
 
 iris keyboard
+  https://www.typingclub.com/
   https://github.com/qmk/qmk_firmware/blob/master/keyboards/keebio/iris/keymaps/default/keymap.c
   https://mbauhardt.github.io/post/2019/05/12/iris-querty-layout/
   https://github.com/filoxo/iris-layout
