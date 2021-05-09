@@ -1,0 +1,8 @@
+Magic Mirror
+  used monitor: shared calendar, pictures, weather
+  https://magpi.raspberrypi.org/articles/build-a-magic-mirror
+  https://magicmirror.builders/
+
+OpenWRT
+  https://openwrt.org/
+  Linksys WRT1900AC
