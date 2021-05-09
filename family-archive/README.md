@@ -18,3 +18,6 @@
 ### Video
 * How to get and back up everything from home
 * [MyHeritage](https://www.freefirepc.com/my-heritage-deep-nostalgia-app/)
+
+### Misc
+* [Communicator](https://news.ycombinator.com/item?id=26982286)
